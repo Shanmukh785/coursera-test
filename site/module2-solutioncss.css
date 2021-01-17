@@ -4,34 +4,52 @@
     }
     h1{
         text-align: center;
-        color:gray;
+        color:black;
     }
     #chicken {
   position:relative;
-    top: 0px;
-   background-color: red;
-    right:0px;
+    top: -2px;
+   background-color: rgb(194, 53, 76);
+    right:-2px;
     text-align: center;
     float: right;
     padding:5px;
+    border-style: solid;
+    border-top: 0px;
+    border-right: 0px;
+   font-size: 20px;
+   width: 150px;
+
 }
  #beef {
   position:relative;
-    top: 0px;
+    top: -2px;
    background-color: red;
-    right:0px;
+    right:-2px;
     text-align: center;
     float: right;
     padding:5px;
+    border-style: solid;
+    border-top: 0px;
+    border-right: 0px;
+   font-size: 20px;
+   width: 150px;
+   color:white;
+   border-color: black;
 }
 #sushi {
   position:relative;
-    top: 0px;
-   background-color: red;
-    right:0px;
+    top: -2px;
+   background-color: greenyellow;
+    right:-2px;
     text-align: center;
     float: right;
     padding:5px;
+    border-style: solid;
+    border-top: 0px;
+    border-right: 0px;
+   font-size: 20px;
+   width: 150px;
 }
 
 .hi{
@@ -39,7 +57,7 @@
     float: left;
     border-style: solid;
     margin:3px;
-    background-color: rgb(128, 197, 23);
+    background-color:rgb(128, 120, 120);
     padding: 2px;
 }
 .hi1{
@@ -47,7 +65,7 @@
     float: left;
     border-style: solid;
    margin:3px;
-   background-color:  rgb(128, 197, 23);
+   background-color:rgb(128, 120, 120);
     padding: 2px;
 }
 .hi2{
@@ -55,7 +73,7 @@
     float: left;
     border-style: solid;
      margin: 3px;
-     background-color:  rgb(128, 197, 23);
+     background-color:rgb(128, 120, 120);
       padding: 2px;
 }
 
