@@ -1,0 +1,94 @@
+        .container{
+        width:100%;
+        margin:1px;
+    }
+    h1{
+        text-align: center;
+        color:gray;
+    }
+    #chicken {
+  position:relative;
+    top: 0px;
+   background-color: red;
+    right:0px;
+    text-align: center;
+    float: right;
+    padding:5px;
+}
+ #beef {
+  position:relative;
+    top: 0px;
+   background-color: red;
+    right:0px;
+    text-align: center;
+    float: right;
+    padding:5px;
+}
+#sushi {
+  position:relative;
+    top: 0px;
+   background-color: red;
+    right:0px;
+    text-align: center;
+    float: right;
+    padding:5px;
+}
+
+.hi{
+    width:31.5%;
+    float: left;
+    border-style: solid;
+    margin:3px;
+    background-color: rgb(128, 197, 23);
+    padding: 2px;
+}
+.hi1{
+    width: 31.5%;
+    float: left;
+    border-style: solid;
+   margin:3px;
+   background-color:  rgb(128, 197, 23);
+    padding: 2px;
+}
+.hi2{
+    width: 31.5%;
+    float: left;
+    border-style: solid;
+     margin: 3px;
+     background-color:  rgb(128, 197, 23);
+      padding: 2px;
+}
+
+@media( max-width: 992px) and (min-width: 768px) {
+    .hi{
+    width:46%;
+    float: left;
+    margin:8px;
+}
+.hi1{
+    width: 46%;
+    float: left;
+     margin:8px;
+}
+.hi2{
+    margin-top: 5px;
+     width:98%;
+     margin-top: 15px;
+}
+}
+@media( max-width:767px ) {
+
+  .hi{
+    width:99%;
+    
+
+}
+.hi1{
+    width: 99%;
+    
+}
+.hi2{
+     width:99%;
+}
+}
+
